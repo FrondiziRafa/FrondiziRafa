@@ -1,16 +1,109 @@
-### Hi there 👋
+# Hi, my name is Rafael 🧑🏾‍💻
+ <p>I am a Full-Stack developer, currently  I am focused on getting specialized in front-end development, more specifically JavaScript, React, Node.js ... 
+ You may watch my progress by checking my portfolio which is linked down below, and if ever you desire to contact me you can mail me or find me out on Linkedin
+ </p>
+<br><br>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Martinez0722&theme=tokyonight" alt="7oSkaaa" /></p>
 
-<!--
-**Martinez0722/martinez0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+# 🧰 Tools and Tech 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end:
+<div align="center">
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />  
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />  
+    </a>
+</div>
+
+### Back-end:
+<div align="center">
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />    
+    </a>
+</div>
+
+### Database:
+<div align="center">
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >    
+    </a>  
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" >    
+    </a>
+</div>
+
+### ... More technologies and tools
+<div align="center">
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" >    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" >    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" >    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
+    </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />    
+    </a>
+</div>
+
+<br>
+
+![Martinez GitHub stats](https://github-readme-stats.vercel.app/api?username=martinez0722&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinez0722&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="martinez0722" height="192px"/>
+<br>
+
+### Additional Informations:
+email: rfaeldel@outlook.com
+
+<a href="https://www.linkedin.com/in/rafaelfelipetech" target="_blank">
+       <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>  
+<a href="https://github.com/Martinez0722" target="_blank">
+       <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
+</a> 
