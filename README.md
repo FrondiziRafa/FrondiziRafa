@@ -3,7 +3,9 @@
  You may watch my progress by checking my portfolio which is linked down below, and if ever you desire to contact me you can mail me or find me out on Linkedin
  </p>
 <br><br>
+
 ### 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Martinez0722&theme=tokyonight" alt="7oSkaaa" /></p>
 
 #
