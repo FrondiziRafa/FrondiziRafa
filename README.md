@@ -98,10 +98,10 @@
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="martinez0722 Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinez0722&theme=tokyonight" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinez0722&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="martinez0722" height="192px"/>
- </p> -->
+ </p>
 <br>
 
 ### Additional Informations:
