@@ -1,8 +1,9 @@
 # Hi, my name is Rafael 🧑🏾‍💻
  <p>I am a Full-Stack developer, currently  I am focused on getting specialized in front-end development, more specifically JavaScript, React, Node.js ... 
- You may watch my progress by checking my portfolio which is linked down below, and if ever you desire to contact me you can mail me or find me out on Linkedin
+ You may watch my progress by checking my portfolio which is linked below, and if ever you wonder to contact me you can mail me or find me out on Linkedin
  </p>
 <br><br>
+Portfolio: https://portfolio-do-rafa.netlify.app/
 
 ### 🔥 Streak Stats
 
