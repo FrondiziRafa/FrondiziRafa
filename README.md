@@ -7,7 +7,7 @@ Portfolio: https://portfolio-do-rafa.netlify.app/
 
 ### 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Martinez0722&theme=tokyonight" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=FrondiziRafa&theme=tokyonight" alt="7oSkaaa" /></p>
 
 #
 
@@ -100,17 +100,17 @@ Portfolio: https://portfolio-do-rafa.netlify.app/
 <br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="martinez0722 Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinez0722&theme=tokyonight" height="192px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinez0722&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="martinez0722" height="192px"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="martinez0722 Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrondiziRafa&theme=tokyonight" height="192px"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrondiziRafa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="martinez0722" height="192px"/>
  </p>
 <br>
 
 ### Additional Informations:
-email: rfaeldel@outlook.com
+email: frondirafa.dev@gmail.com
 
-<a href="https://www.linkedin.com/in/rafaelfelipetech" target="_blank">
+<a href="https://www.linkedin.com/in/frondirafatech" target="_blank">
        <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>  
-<a href="https://github.com/Martinez0722" target="_blank">
+<a href="https://github.com/FrondiziRafa" target="_blank">
        <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
 </a> 
